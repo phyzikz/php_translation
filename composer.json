@@ -14,10 +14,7 @@
     ],    
     "autoload": {
         "psr-4": {
-            "phyzikz\\transhandler\\": "",
-            "exclude-from-classmap": [
-                "/Tests/"
-            ]
+            "phyzikz\\TransHandler\\": "/src/" 
         }
     },
     "minimum-stability": "dev"
