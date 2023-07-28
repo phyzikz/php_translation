@@ -17,6 +17,6 @@
             "phyzikz\\TransHandler\\": "/src/" 
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
 
