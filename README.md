@@ -1,5 +1,5 @@
 # PHP Translation
-##A translation handler class using symfony/yaml
+## A translation handler class using symfony/yaml
 
 Please read the [docs of symfony/Yaml component](https://symfony.com/doc/current/components/yaml.html)
 
