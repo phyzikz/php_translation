@@ -1,0 +1,25 @@
+{
+    "name": "silver/php_translation",
+    "description": "A translation handler class using symfony/yaml",
+    "type": "library",
+    "require": {
+        "symfony/yaml": "^6.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Silver",
+            "homepage": "https://github.com/phyzikz/php_translation"
+        }
+    ],    
+    "autoload": {
+        "psr-4": {
+            "Silver\\PhpTranslation\\": "",
+            "exclude-from-classmap": [
+                "/Tests/"
+            ]
+        }
+    },
+    "minimum-stability": "dev"
+}
+
